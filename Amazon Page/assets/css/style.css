@@ -1,0 +1,138 @@
+/* Your styles here */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  background-color: #e9edee;
+}
+
+/* HEADER  */
+header {
+  background-color: #222f3f;
+}
+
+#logo1 {
+  padding-left: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+header nav {
+  background-color: #364759;
+  padding: 0.5em;
+  padding-left: 2em;
+  word-spacing: 1em;
+}
+
+#intro {
+  color: white;
+  text-decoration: none;
+}
+
+/* MAIN  */
+
+main {
+  margin: 2em;
+}
+
+#section1 {
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+  padding: 0.5em;
+}
+
+#section2 {
+  background-image: url(../images/bg-image.png);
+  background-repeat: repeat;
+  background-size: 93% auto;
+  margin-top: 1.5em;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  line-height: 2em;
+}
+
+#h3 {
+  font-size: 0.8em;
+}
+
+#section3 {
+  background-color: white;
+  margin-top: 2em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#imgfour {
+  display: inline-block;
+  border-radius: 10%;
+  margin: 0.5em;
+  box-shadow: 5px 5px 5px #dedede;
+  width: 23%;
+  height: 250px;
+  margin-top: 1em;
+}
+
+.imgf {
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+a {
+  padding-left: 1em;
+  color: blue;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+#section4 {
+  text-align: center;
+}
+
+#imgVR {
+  width: 100%;
+  margin-top: 2em;
+}
+
+#section5 {
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+#imgbook {
+  width: 100%;
+}
+
+.end {
+  background-color: #364759;
+  color: white;
+  padding: 0.5em;
+}
+
+#end {
+  color: white;
+  text-decoration: underline;
+}
+
+footer div {
+  margin-bottom: 2.5em;
+}
+
+footer {
+  text-align: center;
+  background-color: #222f3f;
+  padding-bottom: 3em;
+}
